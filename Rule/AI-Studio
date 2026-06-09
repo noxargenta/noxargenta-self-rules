@@ -1,16 +1,8 @@
 # Google AI Studio
 - DOMAIN-SUFFIX,aistudio.google.com
+- DOMAIN-SUFFIX,waa-pa.clients6.google.com
 - DOMAIN-SUFFIX,alkalimakersuite-pa.clients6.google.com
-- DOMAIN-SUFFIX,alkalimakersuite-pa.googleapis.com
-- DOMAIN-SUFFIX,webchannel-alkalimakersuite-pa.clients6.google.com
-- DOMAIN-SUFFIX,generativelanguage.googleapis.com
-- DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
-- DOMAIN-SUFFIX,gemini.google.com
-- DOMAIN-SUFFIX,gemini.googleapis.com
-- DOMAIN-SUFFIX,bard.google.com
-- DOMAIN-SUFFIX,makersuite.google.com
-- DOMAIN-SUFFIX,ai.google.dev
-- DOMAIN-SUFFIX,deepmind.google
-- DOMAIN-SUFFIX,grpc-gemini.google.com
-- DOMAIN-SUFFIX,content-gemini-pa.googleapis.com
-- DOMAIN-SUFFIX,content-aistudio-pa.googleapis.com
+- DOMAIN-SUFFIX,console.cloud.google.com
+- DOMAIN-SUFFIX,clients4.google.com
+- DOMAIN-SUFFIX,people-pa.clients6.google.com
+- DOMAIN-SUFFIX,feedback-pa.clients6.google.com
