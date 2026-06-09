@@ -1,2 +1,260 @@
-# 自定义直连规则 — 在此添加
-# 格式: DOMAIN-SUFFIX,example.com
+# 自定义直连规则 — 书签中提取的中国直连站点
+# 规则优先级: 自定义规则集置于 Z-Siqi 规则集之上，会优先匹配
+
+# ==================== 搜索引擎 / 门户 ====================
+DOMAIN-SUFFIX,baidu.com
+DOMAIN-SUFFIX,sogou.com
+
+# ==================== 百度系 ====================
+DOMAIN-SUFFIX,tieba.baidu.com
+DOMAIN-SUFFIX,zhidao.baidu.com
+DOMAIN-SUFFIX,baijiahao.baidu.com
+DOMAIN-SUFFIX,jingyan.baidu.com
+DOMAIN-SUFFIX,yiyan.baidu.com
+DOMAIN-SUFFIX,pan.baidu.com
+
+# ==================== 知乎系 ====================
+DOMAIN-SUFFIX,zhihu.com
+DOMAIN-SUFFIX,zhuanlan.zhihu.com
+DOMAIN-SUFFIX,link.zhihu.com
+
+# ==================== 腾讯系 (QQ / 微信) ====================
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,mail.qq.com
+DOMAIN-SUFFIX,wx.mail.qq.com
+DOMAIN-SUFFIX,connect.qq.com
+DOMAIN-SUFFIX,bot.q.qq.com
+DOMAIN-SUFFIX,guanjia.qq.com
+DOMAIN-SUFFIX,docs.qq.com
+DOMAIN-SUFFIX,cloud.tencent.com
+DOMAIN-SUFFIX,meeting.tencent.com
+
+# ==================== Bilibili ====================
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,biligame.com
+
+# ==================== 网易系 ====================
+DOMAIN-SUFFIX,163.com
+DOMAIN-SUFFIX,music.163.com
+
+# ==================== 字节跳动 ====================
+DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,douyu.com
+DOMAIN-SUFFIX,huya.com
+
+# ==================== 京东 / 阿里云 / 华为 ====================
+DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,aliyun.com
+DOMAIN-SUFFIX,huawei.com
+
+# ==================== 网络小说 / 漫画 ====================
+DOMAIN-SUFFIX,ciweimao.com
+DOMAIN-SUFFIX,uukanshu.com
+DOMAIN-SUFFIX,hetushu.com
+
+# ==================== 智能写作 / AI ====================
+DOMAIN-SUFFIX,bigmodel.cn
+
+# ==================== 云盘 ====================
+DOMAIN-SUFFIX,123pan.com
+DOMAIN-SUFFIX,quark.cn
+DOMAIN-SUFFIX,90pan.com
+DOMAIN-SUFFIX,xiaomapan.com
+DOMAIN-SUFFIX,lanzoux.com
+DOMAIN-SUFFIX,lanzoui.com
+DOMAIN-SUFFIX,lanzoup.com
+DOMAIN-SUFFIX,xpanx.com
+DOMAIN-SUFFIX,kdocs.cn
+DOMAIN-SUFFIX,yuque.com
+DOMAIN-SUFFIX,feishu.cn
+DOMAIN-SUFFIX,flowus.cn
+
+# ==================== 在线编程 / OJ (竞赛) ====================
+DOMAIN-SUFFIX,nowcoder.com
+DOMAIN-SUFFIX,lanqiao.cn
+DOMAIN-SUFFIX,acwing.com
+DOMAIN-SUFFIX,luogu.com.cn
+DOMAIN-SUFFIX,luogu.com
+DOMAIN-SUFFIX,matiji.net
+DOMAIN-SUFFIX,oi-wiki.org
+DOMAIN-SUFFIX,hello-algo.com
+DOMAIN-SUFFIX,qoj.ac
+DOMAIN-SUFFIX,xcpcio.com
+DOMAIN-SUFFIX,javabetter.cn
+DOMAIN-SUFFIX,linux.do
+
+# ==================== 开发者社区 ====================
+DOMAIN-SUFFIX,csdn.net
+DOMAIN-SUFFIX,juejin.cn
+DOMAIN-SUFFIX,cnblogs.com
+DOMAIN-SUFFIX,jianshu.com
+DOMAIN-SUFFIX,runoob.com
+DOMAIN-SUFFIX,52pojie.cn
+DOMAIN-SUFFIX,appinn.com
+DOMAIN-SUFFIX,sspai.com
+DOMAIN-SUFFIX,kejihub.com
+DOMAIN-SUFFIX,iizhi.cn
+DOMAIN-SUFFIX,hackdig.com
+DOMAIN-SUFFIX,sojson.com
+DOMAIN-SUFFIX,quanxiaoha.com
+DOMAIN-SUFFIX,xiaoshuai.link
+DOMAIN-SUFFIX,cnxiaobai.com
+DOMAIN-SUFFIX,gitee.com
+
+# ==================== 工具站 ====================
+DOMAIN-SUFFIX,tool.lu
+DOMAIN-SUFFIX,uutool.cn
+DOMAIN-SUFFIX,onfix.cn
+DOMAIN-SUFFIX,cliptrace.com
+DOMAIN-SUFFIX,chaonengsou.com
+DOMAIN-SUFFIX,gankao.com
+DOMAIN-SUFFIX,tikuhai.com
+DOMAIN-SUFFIX,zuotixia.com
+DOMAIN-SUFFIX,cidianwang.com
+DOMAIN-SUFFIX,gaofumei.net
+DOMAIN-SUFFIX,mefcl.com
+DOMAIN-SUFFIX,limestart.cn
+DOMAIN-SUFFIX,liteboost.cn
+DOMAIN-SUFFIX,resleak.cn
+DOMAIN-SUFFIX,sopandas.com
+DOMAIN-SUFFIX,cnm.buhuibaidu.me
+DOMAIN-SUFFIX,fanyi.youdao.com
+DOMAIN-SUFFIX,ilovepdf.com
+DOMAIN-SUFFIX,aconvert.com
+DOMAIN-SUFFIX,smallpdf.com
+DOMAIN-SUFFIX,grablan.com
+DOMAIN-SUFFIX,gglot.com
+DOMAIN-SUFFIX,superimage.io
+DOMAIN-SUFFIX,videovinci.com
+
+# ==================== 教育 / 校园 ====================
+DOMAIN-SUFFIX,ecut.edu.cn
+DOMAIN-SUFFIX,jxeph.com
+DOMAIN-SUFFIX,eduyun.cn
+DOMAIN-SUFFIX,chaoxing.com
+DOMAIN-SUFFIX,welearn.sflep.com
+
+# ==================== 软件下载 ====================
+DOMAIN-SUFFIX,downxia.com
+DOMAIN-SUFFIX,ddooo.com
+DOMAIN-SUFFIX,newhua99.com
+DOMAIN-SUFFIX,xpwin7.com
+DOMAIN-SUFFIX,xiazaitool.com
+DOMAIN-SUFFIX,fengchedmp.com
+DOMAIN-SUFFIX,rjctx.com
+DOMAIN-SUFFIX,rjshe.com
+DOMAIN-SUFFIX,yzhy02.cn
+
+# ==================== 4399 / AcFun / 游戏 ====================
+DOMAIN-SUFFIX,4399.com
+DOMAIN-SUFFIX,acfun.cn
+DOMAIN-SUFFIX,poki.cn
+DOMAIN-SUFFIX,crazygames.com
+DOMAIN-SUFFIX,mihoyo.com
+DOMAIN-SUFFIX,miyun.app
+
+# ==================== ACG / 动漫 / 影视 ====================
+DOMAIN-SUFFIX,agedm.org
+DOMAIN-SUFFIX,yhdmz.org
+DOMAIN-SUFFIX,zzzfun.one
+DOMAIN-SUFFIX,omofun.link
+DOMAIN-SUFFIX,mgnacg.com
+DOMAIN-SUFFIX,moebox.net
+DOMAIN-SUFFIX,idmzj.com
+DOMAIN-SUFFIX,lufeiacg.com
+DOMAIN-SUFFIX,iyhdmm.com
+DOMAIN-SUFFIX,imwxz.com
+DOMAIN-SUFFIX,dm530.in
+DOMAIN-SUFFIX,touchgal.us
+DOMAIN-SUFFIX,jianghu48.com
+DOMAIN-SUFFIX,migufun.com
+DOMAIN-SUFFIX,ecydh.top
+DOMAIN-SUFFIX,caijiyouxi.com
+DOMAIN-SUFFIX,haokavip.com
+DOMAIN-SUFFIX,xifan.moe
+DOMAIN-SUFFIX,moyu.moe
+DOMAIN-SUFFIX,yinghe.tv
+DOMAIN-SUFFIX,wowoziyuan.com
+DOMAIN-SUFFIX,acgdh.cc
+DOMAIN-SUFFIX,vidhub.cc
+DOMAIN-SUFFIX,vidhub.top
+DOMAIN-SUFFIX,bobopic.com
+DOMAIN-SUFFIX,pixivic.com
+DOMAIN-SUFFIX,vilipix.com
+DOMAIN-SUFFIX,shijiexia.com
+DOMAIN-SUFFIX,ruterfu.com
+DOMAIN-SUFFIX,iyio.net
+DOMAIN-SUFFIX,16tao.cn
+DOMAIN-SUFFIX,maojia.net
+DOMAIN-SUFFIX,xinger.vip
+
+# ==================== Minecraft 国内社区 ====================
+DOMAIN-SUFFIX,mcbbs.net
+DOMAIN-SUFFIX,mcmod.cn
+DOMAIN-SUFFIX,minebbs.com
+DOMAIN-SUFFIX,minecraftxz.com
+DOMAIN-SUFFIX,mcmaps.cn
+DOMAIN-SUFFIX,mcnav.net
+DOMAIN-SUFFIX,littleskin.cn
+DOMAIN-SUFFIX,bbsmc.net
+DOMAIN-SUFFIX,haomc.com
+DOMAIN-SUFFIX,mapcraft.me
+DOMAIN-SUFFIX,caimogu.cc
+DOMAIN-SUFFIX,maa.plus
+DOMAIN-SUFFIX,hut.ao
+DOMAIN-SUFFIX,fishc.com.cn
+DOMAIN-SUFFIX,nitwikit.8aka.org
+DOMAIN-SUFFIX,pixelmap.minegraph.cn
+
+# ==================== 音乐 ====================
+DOMAIN-SUFFIX,liuzhijin.cn
+DOMAIN-SUFFIX,y444.cn
+DOMAIN-SUFFIX,wandhi.com
+DOMAIN-SUFFIX,liumingye.cn
+
+# ==================== FRP / 内网穿透 ====================
+DOMAIN-SUFFIX,openfrp.net
+DOMAIN-SUFFIX,mefrp.com
+DOMAIN-SUFFIX,locyan.cn
+DOMAIN-SUFFIX,locyanfrp.cn
+DOMAIN-SUFFIX,siwiot.com
+DOMAIN-SUFFIX,nfcjpeng.dpdns.org
+DOMAIN-SUFFIX,radmin-lan.cn
+
+# ==================== 测速 / 网络 ====================
+DOMAIN-SUFFIX,speedtest.cn
+DOMAIN-SUFFIX,packetlosstest.com
+DOMAIN-SUFFIX,test.ustc.edu.cn
+DOMAIN-SUFFIX,oray.com
+
+# ==================== 壁纸 / 素材 ====================
+DOMAIN-SUFFIX,bizhi88.com
+DOMAIN-SUFFIX,zzzmh.cn
+DOMAIN-SUFFIX,alphacoders.com
+DOMAIN-SUFFIX,wallspic.com
+DOMAIN-SUFFIX,wallpaperhub.app
+DOMAIN-SUFFIX,wallroom.io
+
+# ==================== 其他国内服务 ====================
+DOMAIN-SUFFIX,toprender.com
+DOMAIN-SUFFIX,51earth.com
+DOMAIN-SUFFIX,anygen.io
+DOMAIN-SUFFIX,maigo.cc
+DOMAIN-SUFFIX,treepay.cn
+DOMAIN-SUFFIX,qingfengyun.xyz
+DOMAIN-SUFFIX,fscloud.vip
+DOMAIN-SUFFIX,coolhub.top
+DOMAIN-SUFFIX,iflow.work
+DOMAIN-SUFFIX,dadiyouhui01.cn
+DOMAIN-SUFFIX,search.qinggl.com
+DOMAIN-SUFFIX,yunpz.net
+DOMAIN-SUFFIX,stalin.treepay.cn
+DOMAIN-SUFFIX,hao.94c.cn
+DOMAIN-SUFFIX,haoka.lot-ml.com
+DOMAIN-SUFFIX,ka.kaduoduohk.com
+DOMAIN-SUFFIX,wenode.cc
+DOMAIN-SUFFIX,freenode.me
+DOMAIN-SUFFIX,zoot.plus
+DOMAIN-SUFFIX,zxxgj.net
+DOMAIN-SUFFIX,llg01.com
+DOMAIN-SUFFIX,myshell.ai
