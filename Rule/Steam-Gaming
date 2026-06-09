@@ -1,0 +1,20 @@
+# Steam 联机 + 街霸 6
+DOMAIN,cmp1-hkg1.steamserver.net
+DOMAIN-SUFFIX,steamserver.net
+DOMAIN-SUFFIX,steam-chat.com
+DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,steamusercontent.com
+DOMAIN,api.steampowered.com
+DOMAIN,shared.cdn.queniuqe.com
+DOMAIN,media.st.dl.eccdnx.com
+DOMAIN-SUFFIX,sf6.streetfighter.com
+DOMAIN-SUFFIX,rebe.capcom.com
+DOMAIN-SUFFIX,xboxlive.com
+DOMAIN-SUFFIX,playfabapi.com
+IP-CIDR,155.133.224.0/20
+IP-CIDR,162.254.192.0/21
+IP-CIDR,146.66.152.0/22
+IP-CIDR,185.25.182.0/23
+IP-CIDR,103.28.54.0/24
+IP-CIDR,103.10.124.0/23
+IP-CIDR,45.121.184.0/24

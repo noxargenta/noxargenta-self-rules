@@ -1,0 +1,7 @@
+# Steam 商店
+DOMAIN,store.steampowered.com
+DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,steamstatic.com
+DOMAIN-SUFFIX,steamgames.com
+DOMAIN-KEYWORD,steam

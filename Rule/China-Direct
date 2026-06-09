@@ -1,0 +1,11 @@
+# OJ + Kook 直连
+DOMAIN-SUFFIX,luogu.com.cn
+DOMAIN-SUFFIX,luogu.org
+DOMAIN-SUFFIX,leetcode.com
+DOMAIN-SUFFIX,leetcode.cn
+DOMAIN-SUFFIX,leetcode-cn.com
+DOMAIN-SUFFIX,vjudge.net
+DOMAIN-KEYWORD,kook
+DOMAIN-SUFFIX,kookapp.cn
+DOMAIN-SUFFIX,kook.cn
+PROCESS-NAME,kook.exe
