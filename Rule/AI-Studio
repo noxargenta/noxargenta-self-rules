@@ -1,5 +1,15 @@
 # Google AI Studio
 DOMAIN,aistudio.google.com
-DOMAIN,makersuite.google.com
-DOMAIN,generativelanguage.googleapis.com
 DOMAIN,alkalimakersuite-pa.clients6.google.com
+DOMAIN,alkalimakersuite-pa.googleapis.com
+DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
+DOMAIN,generativelanguage.googleapis.com
+DOMAIN,proactivebackend-pa.googleapis.com
+DOMAIN,gemini.google.com
+DOMAIN,bard.google.com
+DOMAIN,makersuite.google.com
+DOMAIN,ai.google.dev
+DOMAIN,cloudsearch.googleapis.com
+DOMAIN,deepmind.google
+DOMAIN,grpc-gemini.google.com
+DOMAIN,accounts.google.com
