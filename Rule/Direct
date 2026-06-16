@@ -134,6 +134,13 @@ DOMAIN-SUFFIX,eduyun.cn
 DOMAIN-SUFFIX,chaoxing.com
 DOMAIN-SUFFIX,welearn.sflep.com
 DOMAIN-SUFFIX,zhihuishu.com
+DOMAIN-SUFFIX,studyh5.zhihuishu.com
+DOMAIN-SUFFIX,app.zhihuishu.com
+DOMAIN-SUFFIX,api.zhihuishu.com
+DOMAIN-SUFFIX,passport.zhihuishu.com
+DOMAIN-SUFFIX,live.zhihuishu.com
+DOMAIN-SUFFIX,res.zhihuishu.com
+DOMAIN-SUFFIX,static.zhihuishu.com
 
 # ==================== 软件下载 ====================
 DOMAIN-SUFFIX,downxia.com
